@@ -22,5 +22,11 @@ agrega mis archivos al repositorio LOCAL
 git log
 se muestra todos los cambios que se hicieron 
 
+git remote add origin "URL"
+enlaza el repositorio local con el repositorio en la nube (GitHub)
 
+git remote -v
+muestra con que repositorio remoto esta enlazado mi repositorio local
 
+git push origin master
+sube los cambios al repositorio remoto (GitHub)

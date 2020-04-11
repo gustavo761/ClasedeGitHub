@@ -1,1 +1,18 @@
 git --version
+devuelve la version instalada de git
+
+git init
+incializa el repositorio LOCAL
+
+git status
+muestra el estado de los archivos en el repositorio LOCAL
+
+git add nombre_archivo.extension //agrega uno por uno
+git add . // agrega a todos los archivos
+este comando agrega archivos al área de espera
+
+git commmit -m "Mensaje"
+agrega mis archivos al repositorio LOCAL
+
+git log
+se muestra todos los cambios que se hicieron 

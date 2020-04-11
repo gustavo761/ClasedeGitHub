@@ -1,6 +1,11 @@
 git --version
 devuelve la version instalada de git
 
+git config --global user.email "you@example.com"
+cambiar el correo
+git config --global user.name "Your Name"
+cambiar nombre de usuario
+
 git init
 incializa el repositorio LOCAL
 
@@ -17,9 +22,5 @@ agrega mis archivos al repositorio LOCAL
 git log
 se muestra todos los cambios que se hicieron 
 
-git config --global user.email "you@example.com"
-cambiar el correo
-git config --global user.name "Your Name"
-cambiar nombre de usuario
 
 

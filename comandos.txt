@@ -6,27 +6,27 @@ cambiar el correo
 git config --global user.name "Your Name"
 cambiar nombre de usuario
 
-git init
+1. git init
 incializa el repositorio LOCAL
 
-git status
+2. git status
 muestra el estado de los archivos en el repositorio LOCAL
 
-git add nombre_archivo.extension //agrega uno por uno
+3. git add nombre_archivo.extension //agrega uno por uno
 git add . // agrega a todos los archivos
 este comando agrega archivos al área de espera
 
-git commmit -m "Mensaje"
+4. git commmit -m "Mensaje"
 agrega mis archivos al repositorio LOCAL
 
-git log
+5. git log
 se muestra todos los cambios que se hicieron 
 
-git remote add origin "URL"
+6. git remote add origin "URL"
 enlaza el repositorio local con el repositorio en la nube (GitHub)
 
 git remote -v
 muestra con que repositorio remoto esta enlazado mi repositorio local
 
-git push origin master
+7. git push origin master
 sube los cambios al repositorio remoto (GitHub)

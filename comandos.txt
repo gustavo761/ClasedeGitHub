@@ -36,3 +36,6 @@ muestra los cambios de forma visual
 
 gitkraken
 reemplazo de la consola de Git
+
+git clone URL
+en la carpeta que se encuentre la consola se clona el repositorio que se encuentra en la URL

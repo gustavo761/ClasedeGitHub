@@ -30,3 +30,9 @@ muestra con que repositorio remoto esta enlazado mi repositorio local
 
 7. git push origin master
 sube los cambios al repositorio remoto (GitHub)
+
+gitk
+muestra los cambios de forma visual
+
+gitkraken
+reemplazo de la consola de Git
